@@ -2,7 +2,7 @@
 Tool for displaying a function's curve on a 2D canvas (multiple language support)
 
 
-in this repo i intend to merge my solutions to this problem over the years.
+in this repo i intend to merge my solutions to this problem from over the years.
 
 precisely:
 - [book openGL](https://github.com/BobuDragos/ComputerGraphicsProgramming-in-OpenGL-with-Cpp)
